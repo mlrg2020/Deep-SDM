@@ -6,4 +6,6 @@ LSTM, GRU, and CNN models. Multiple subroutines are blended to create a conduciv
 data exploration and visualization, normalization, and input preparation, hyperparameter tuning, performance
 evaluations, visualization of results, and statistical analysis.
 
+The code can be executed on popular platforms such as Google Colab and Ananconda.
+
 This project is licensed under the terms of the MIT license.
